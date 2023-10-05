@@ -1,3 +1,10 @@
-﻿
-using var game = new MyGame.Game1();
-game.Run();
+﻿namespace GreenCity;
+
+public static class Program
+{
+    private static void Main()
+    {
+        using var game = new Game1();
+        game.Run();
+    }
+}
