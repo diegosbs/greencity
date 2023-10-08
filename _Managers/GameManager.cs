@@ -2,21 +2,22 @@ namespace GreenCity;
 
 public class GameManager
 {
-    private readonly Ship _ship;
+    //private readonly Ship _ship;
+    private readonly Hero _hero;
 
     public GameManager()
     {
-        _ship = new(Globals.Content.Load<Texture2D>("ship"), new(200, 200));
+        _hero = new();
     }
 
     public void Update()
     {
         InputManager.Update();
-        _ship.Update();
+        _hero.Update();
     }
 
     public void Draw()
     {
-        _ship.Draw();
+        _hero.Draw();
     }
 }

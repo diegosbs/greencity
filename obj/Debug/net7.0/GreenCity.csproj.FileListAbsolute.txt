@@ -3,7 +3,6 @@ C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.GeneratedMSBuil
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.AssemblyInfoInputs.cache
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.AssemblyInfo.cs
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.csproj.CoreCompileInputs.cache
-C:\Users\Diego\source\repos\GreenCity\bin\Debug\net7.0\Content\ship.xnb
 C:\Users\Diego\source\repos\GreenCity\bin\Debug\net7.0\GreenCity.exe
 C:\Users\Diego\source\repos\GreenCity\bin\Debug\net7.0\GreenCity.deps.json
 C:\Users\Diego\source\repos\GreenCity\bin\Debug\net7.0\GreenCity.runtimeconfig.json
@@ -24,3 +23,4 @@ C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\refint\GreenCity.dll
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.pdb
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.genruntimeconfig.cache
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\ref\GreenCity.dll
+C:\Users\Diego\source\repos\GreenCity\bin\Debug\net7.0\Content\walkingtest.xnb

@@ -1,2 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Users/Diego/source/repos/GreenCity/Content/ship.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ship.xnb","TextureProcessor","Texture2DContent",14425,44117,0,1693593
+"c:/Users/Diego/source/repos/GreenCity/Content/walkingtest.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/walkingtest.xnb","TextureProcessor","Texture2DContent",26246,589909,0,200644

@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/Diego/source/repos/GreenCity/Content/ship.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/walkingtest.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

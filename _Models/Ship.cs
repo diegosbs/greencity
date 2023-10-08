@@ -17,27 +17,31 @@ public class Ship : Sprite
         float horizontalInput = InputManager.DirectionArrows.X;
         float verticalInput = InputManager.DirectionArrows.Y;
 
-        // Obtém a posição atual do mouse
-        MouseState mouseState = Mouse.GetState();
-        Vector2 mousePosition = new Vector2(mouseState.X, mouseState.Y);
-
-        // Calcula a posição do mouse em relação à posição do jogador
-        Vector2 direction = mousePosition - position;
-
-        // Define a rotação para 0 graus quando o mouse está à esquerda do jogador (direção.X < 0)
-        // e para 180 graus quando o mouse está à direita do jogador (direção.X >= 0)
-        if (direction.X >= 0)
-        {
-            _rotation = MathHelper.ToRadians(90);
-        }
-        else
-        {
-            _rotation = MathHelper.ToRadians(270); 
-        }
-
         // Atualiza a posição com base nas teclas de seta
         Vector2 movement = new Vector2(horizontalInput, verticalInput);
         position += movement * speed * Globals.TotalSeconds;
+
+        // Define a rotação baseada na direção das setas
+        if (horizontalInput > 0)
+        {
+            // Se a seta da direita está pressionada
+            _rotation = MathHelper.ToRadians(90);
+        }
+        else if (horizontalInput < 0)
+        {
+            // Se a seta da esquerda está pressionada
+            _rotation = MathHelper.ToRadians(270);
+        }
+        else if (verticalInput > 0)
+        {
+            // Se a seta para cima está pressionada
+            _rotation = MathHelper.ToRadians(180);
+        }
+        else if (verticalInput < 0)
+        {
+            // Se a seta para baixo está pressionada
+            _rotation = MathHelper.ToRadians(0);
+        }
     }
 
     public override void Draw()
