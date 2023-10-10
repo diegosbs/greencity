@@ -24,3 +24,4 @@ C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.pdb
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\GreenCity.genruntimeconfig.cache
 C:\Users\Diego\source\repos\GreenCity\obj\Debug\net7.0\ref\GreenCity.dll
 C:\Users\Diego\source\repos\GreenCity\bin\Debug\net7.0\Content\walkingtest.xnb
+C:\Users\Diego\source\repos\greencity\bin\Debug\net7.0\Content\hero.xnb

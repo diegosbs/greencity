@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/Diego/source/repos/greencity/Content/walkingtest.png</SourceFile>
-  <SourceTime>2023-10-08T17:10:26.5160696-03:00</SourceTime>
-  <DestFile>c:/Users/Diego/source/repos/greencity/Content/bin/DesktopGL/walkingtest.xnb</DestFile>
-  <DestTime>2023-10-08T17:19:00.4568751-03:00</DestTime>
+  <SourceFile>c:/Users/Diego/source/repos/greencity/Content/hero.png</SourceFile>
+  <SourceTime>2023-10-08T17:18:08.8567398-03:00</SourceTime>
+  <DestFile>c:/Users/Diego/source/repos/greencity/Content/bin/DesktopGL/hero.xnb</DestFile>
+  <DestTime>2023-10-08T17:19:00.4100006-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T08:44:56-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

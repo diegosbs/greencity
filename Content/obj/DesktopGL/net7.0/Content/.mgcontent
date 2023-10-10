@@ -4,9 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Diego/source/repos/GreenCity/Content/walkingtest.png</File>
+    <File>C:/Users/Diego/source/repos/greencity/Content/hero.png</File>
+    <File>C:/Users/Diego/source/repos/greencity/Content/walkingtest.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
