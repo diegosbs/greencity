@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\source\\repos\\greencity\\GreenCity.csproj": {}
+    "C:\\Users\\Diego\\source\\repos\\GreenCity\\GreenCity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\source\\repos\\greencity\\GreenCity.csproj": {
+    "C:\\Users\\Diego\\source\\repos\\GreenCity\\GreenCity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\greencity\\GreenCity.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\GreenCity\\GreenCity.csproj",
         "projectName": "GreenCity",
-        "projectPath": "C:\\Users\\Diego\\source\\repos\\greencity\\GreenCity.csproj",
+        "projectPath": "C:\\Users\\Diego\\source\\repos\\GreenCity\\GreenCity.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\source\\repos\\greencity\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\source\\repos\\GreenCity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

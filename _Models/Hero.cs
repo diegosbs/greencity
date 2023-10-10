@@ -10,14 +10,14 @@ public class Hero
     {
         var heroTexture = Globals.Content.Load<Texture2D>("walkingtest");
 
-        _anims.AddAnimation(new Vector2(0, -1), new(heroTexture, 8, 4, 0.1f, 1));
-        _anims.AddAnimation(new Vector2(-1, 0), new(heroTexture, 8, 4, 0.1f, 2));
-        _anims.AddAnimation(new Vector2(0, 1), new(heroTexture, 8, 4, 0.1f, 3));
-        _anims.AddAnimation(new Vector2(1, 0), new(heroTexture, 8, 4, 0.1f, 4));
-        _anims.AddAnimation(new Vector2(1, -1), new(heroTexture, 8, 4, 0.1f, 4));
-        _anims.AddAnimation(new Vector2(1, 1), new(heroTexture, 8, 4, 0.1f, 4));
-        _anims.AddAnimation(new Vector2(-1, -1), new(heroTexture, 8, 4, 0.1f, 2));
-        _anims.AddAnimation(new Vector2(-1, 1), new(heroTexture, 8, 4, 0.1f, 2));
+        _anims.AddAnimation(new Vector2(0, -1), new(heroTexture, 9, 4, 0.1f, 1));
+        _anims.AddAnimation(new Vector2(-1, 0), new(heroTexture, 9, 4, 0.1f, 2));
+        _anims.AddAnimation(new Vector2(0, 1), new(heroTexture, 9, 4, 0.1f, 3));
+        _anims.AddAnimation(new Vector2(1, 0), new(heroTexture, 9, 4, 0.1f, 4));
+        _anims.AddAnimation(new Vector2(1, -1), new(heroTexture, 9, 4, 0.1f, 4));
+        _anims.AddAnimation(new Vector2(1, 1), new(heroTexture, 9, 4, 0.1f, 4));
+        _anims.AddAnimation(new Vector2(-1, -1), new(heroTexture, 9, 4, 0.1f, 2));
+        _anims.AddAnimation(new Vector2(-1, 1), new(heroTexture, 9, 4, 0.1f, 2));
     }
 
     public void Update()
