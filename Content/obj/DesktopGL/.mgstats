@@ -1,3 +1,9 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Users/Diego/source/repos/greencity/Content/hero.png","c:/Users/Diego/source/repos/greencity/Content/bin/DesktopGL/hero.xnb","TextureProcessor","Texture2DContent",311725,2560085,0,5176194
-"c:/Users/Diego/source/repos/greencity/Content/walkingtest.png","c:/Users/Diego/source/repos/greencity/Content/bin/DesktopGL/walkingtest.xnb","TextureProcessor","Texture2DContent",26246,589909,0,0388634
+"c:/Users/Diego/source/repos/GreenCity/Content/ground1.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ground1.xnb","TextureProcessor","Texture2DContent",776,262229,0,1933254
+"c:/Users/Diego/source/repos/GreenCity/Content/ground2.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ground2.xnb","TextureProcessor","Texture2DContent",1687,262229,0,0100305
+"c:/Users/Diego/source/repos/GreenCity/Content/ground3.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ground3.xnb","TextureProcessor","Texture2DContent",2304,262229,0,0093493
+"c:/Users/Diego/source/repos/GreenCity/Content/ground4.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ground4.xnb","TextureProcessor","Texture2DContent",811,262229,0,0100776
+"c:/Users/Diego/source/repos/GreenCity/Content/ground5.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ground5.xnb","TextureProcessor","Texture2DContent",2191,262229,0,0093372
+"c:/Users/Diego/source/repos/GreenCity/Content/ground6.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/ground6.xnb","TextureProcessor","Texture2DContent",2582,262229,0,0091588
+"c:/Users/Diego/source/repos/GreenCity/Content/hero.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/hero.xnb","TextureProcessor","Texture2DContent",311725,2560085,0,0773736
+"c:/Users/Diego/source/repos/GreenCity/Content/walkingtest.png","c:/Users/Diego/source/repos/GreenCity/Content/bin/DesktopGL/walkingtest.xnb","TextureProcessor","Texture2DContent",26246,589909,0,019133

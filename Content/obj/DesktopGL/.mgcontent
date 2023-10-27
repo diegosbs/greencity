@@ -4,10 +4,22 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/Diego/source/repos/greencity/Content/hero.png</File>
-    <File>c:/Users/Diego/source/repos/greencity/Content/walkingtest.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/ground1.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/ground2.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/ground3.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/ground4.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/ground5.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/ground6.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/hero.png</File>
+    <File>c:/Users/Diego/source/repos/GreenCity/Content/walkingtest.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
